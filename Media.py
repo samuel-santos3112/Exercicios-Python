@@ -1,7 +1,3 @@
-#!/usr/bin/python3 /home/samuel/Documentos/Python/Media.py
-#coding: utf-8
-
-
 soma = 0
 for x in range(4):
  numero = input("Informe número: ")

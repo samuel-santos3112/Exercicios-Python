@@ -1,6 +1,3 @@
-#!/usr/bin/python3 /home/samuel/Documentos/Python/Comparacao.py
-#coding: utf-8
-
 numero1 = int (input("Informe primeiro número: "))
 numero2 = int(input("Informe segundo número: "))
 

@@ -1,6 +1,3 @@
-#!/usr/bin/python3 /home/samuel/Documentos/Python/MediaConceitual.py
-#coding: utf-8
-
 nota1 = float(input("Informe nota 1: "))
 nota2 = float(input("Informe nota 2: "))
 

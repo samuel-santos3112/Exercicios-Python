@@ -1,4 +1,3 @@
-
 usuario = input("Informe usuario: ")
 senhaUsuario = input("Informe senha: ")
 

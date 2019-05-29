@@ -1,6 +1,3 @@
-#!/usr/bin/python3 /home/samuel/Documentos/Python/ConversaoGraus
-#coding: utf-8
-
 grausFahrenheit = float (input("Informe a temperatura em graus Fahrenheit: "))
 
 conversaoCelsius = float ((grausFahrenheit)-32) * (5/9)

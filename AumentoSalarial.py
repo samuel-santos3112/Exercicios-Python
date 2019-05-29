@@ -1,6 +1,3 @@
-#!/usr/bin/python3 /home/samuel/Documentos/Python/AumentoSalarial.py
-#coding: utf-8
-
 salario = float(input("Informe salário: "))
 
 if salario <= 280:

@@ -1,6 +1,3 @@
-#!/usr/bin/python3 /home/samuel/Documentos/Python/ControlePesca.py
-#coding: utf-8
-
 pesoPeixe = float (input("Informe a quantidade de peixes em KG: "))
 
 if pesoPeixe > 50 :
